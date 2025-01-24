@@ -1,5 +1,4 @@
-import pygame, random, time
-from io import BytesIO
+import pygame, random
 
 #Initialize pygame
 pygame.init()
